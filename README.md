@@ -2,9 +2,9 @@
 
 **Objective:**
 
-Find publicly available data for key factors that influence US home prices nationally. Then, build a data science model that explains how these factors impacted home prices over the last 20 years.
+This project investigates the key economic factors that influenced U.S. home prices from 2001 to 2025 using publicly available data. The S&P CoreLogic Case-Shiller U.S. National Home Price Index is used as the benchmark for housing price trends.
 
-The project aims to build a data science model to predict U.S. home prices based on key economic factors over the last 20 years.
+The project aims to build a data science model to predict U.S. home prices based on key economic factors over the last 23 years.
 
 **Steps**
 
