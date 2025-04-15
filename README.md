@@ -61,7 +61,7 @@ The project contributes to understanding the key factors influencing U.S. home p
 # Results
 
 The project involves understanding and predicting patterns rather than just describing historical trends or providing actionable recommendations.
-
+(https://github.com/srirammadarapu/US-HOME-PRICES/blob/main/Screenshot%202025-04-15%20144530.png)
 
 
 # Data Availability
